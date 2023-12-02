@@ -1,5 +1,8 @@
 #include <stdio.h>
 void main{
 
-    printf("largest number");
+
+    printf("number 2");
+    printf("number 2");
+    printf("number 2");
 }
